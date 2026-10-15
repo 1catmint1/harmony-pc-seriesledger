@@ -1,0 +1,27 @@
+[
+  {
+    "observed": "bad revision / did not send all necessary objects",
+    "repair": "explicit missing blobs fetched with --no-filter",
+    "stage": "partial blob fetch"
+  },
+  {
+    "observed": "source paths merged / includes missing",
+    "repair": "parenthesize each concatenated PowerShell array item",
+    "stage": "Windows host argument list"
+  },
+  {
+    "observedExit": "0xC0000135",
+    "verdict": "not accepted; Core/Network host controls separate",
+    "stage": "Windows full Widgets launch"
+  },
+  {
+    "observed": "400 Bad Request with literal semicolon in query URL",
+    "repair": "encode individual original values for GET and POST",
+    "stage": "real Qt multi-statement HTTP"
+  },
+  {
+    "observed": "metadata field collision synthetic fixture",
+    "verdict": "failed; explicit JSON construction and native r2 passed",
+    "stage": "native r1"
+  }
+]

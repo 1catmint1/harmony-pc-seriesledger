@@ -1,0 +1,15 @@
+{
+  "product": "SeriesLedger",
+  "version": "1.0.2",
+  "usbRun": "r2",
+  "hapSha256": "ad2ee2647f768cb550802a51f0a271fa8607416a9f5734ce66ecb27e0f882cfd",
+  "startedAt": "2026-10-15T16:03:08.128Z",
+  "initialLaunches": 1,
+  "resumeWants": 6,
+  "completedCycles": 6,
+  "processReplaced": false,
+  "passed": true,
+  "maximizedBounds": "[0,0][3120,1955]",
+  "sameBootPidUidConfirmed": true,
+  "completedAt": "2026-10-15T16:03:34.774Z"
+}

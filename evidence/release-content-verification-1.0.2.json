@@ -1,0 +1,37 @@
+{
+  "product": "SeriesLedger",
+  "version": "1.0.2",
+  "versionCode": 1000002,
+  "usbRun": "r2",
+  "releaseMode": true,
+  "usbRuntimeAllZipEntriesEqual": true,
+  "equalEntryCount": 23,
+  "appEmbeddedHapRuntimeEqual": true,
+  "metadataException": "APP packer may omit .pages.info and reformat pack.info",
+  "permissions": [
+    "ohos.permission.INTERNET"
+  ],
+  "pcOnly": true,
+  "backupExtensionRemoved": true,
+  "privateDatabaseBootstrapAbsent": true,
+  "privateDatabasePasswordAbsent": true,
+  "sourceProjectionEqual": true,
+  "hapSha256": "21d4410c561fe72e8cd1f4ad2fbcd8a615f875ab76bf8607c8d15384bc0c3b92",
+  "appSha256": "f8dadea6b697eb986894b0be40e61b7d58e2ac6e22342bcdf29fa7811b7af403",
+  "libraries": {
+    "libs/arm64-v8a/libQt5Core.so": "a5df1b613d13b0f4d3e4f7cdbd4c2cc1e640785719988482e9395058cf493f1d",
+    "libs/arm64-v8a/libQt5Gui.so": "8b6b22b7a6c10fcbcdc01c4958260ede3c1ea3a8b813df090f3a6e2e0c6fcfc7",
+    "libs/arm64-v8a/libQt5Network.so": "88a8c9bc6b3797684b000b4f6220dc9f5f09b12e9ef9073518818e3b821f74ac",
+    "libs/arm64-v8a/libQt5OhExtras.so": "c719284672009a3ed9a669c3988fe1632e5af27624dae0c8c30d05754dee454d",
+    "libs/arm64-v8a/libQt5Widgets.so": "5fcf7f9c1cb2179ffee68911ab885770886605ab5f7564788d12aaa8d7f455f8",
+    "libs/arm64-v8a/libc++_shared.so": "cf2ea887af365557f4ad258c62631a4f92f902b4b79203a2185dba10efe19e62",
+    "libs/arm64-v8a/libentry.so": "59dcf86860846e48bdd0af7bce7aa99da604da16ccec39962cedbb267ecc4ea8",
+    "libs/arm64-v8a/libplugins_imageformats_qico.so": "a6c1d5c25b68170fcabcae154d042fbefe9021b7ce64044b4c98cd17a2c2925c",
+    "libs/arm64-v8a/libplugins_platforms_qopenharmony.so": "f68c49dd8d5dd8b7d9b14fa132f9931eedaf340d6e51f1a232baf71448f18c8e"
+  },
+  "qtTargetVersion": "5.15.12",
+  "qtCorrespondingSourceClosurePending": true,
+  "nativeCoreUnitTestsRerun": false,
+  "published": false,
+  "createdUtc": "2026-10-15T16:06:01.273482+00:00"
+}

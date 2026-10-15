@@ -1,0 +1,32 @@
+{
+  "product": "SeriesLedger",
+  "version": "1.0.1",
+  "bundle": "com.seriesledger.track1",
+  "usbRun": "r1",
+  "artifact": "development-signed release-mode HAP",
+  "hapSha256": "274fba9ad8fb2926276f7be1a1642cb0c510328209d4a626dd31b1dd5b3440ed",
+  "nativeGui": {
+    "count": 3,
+    "realInfluxDbVersion": "1.13.1",
+    "productionConnectionDialog": true,
+    "testInstrumentationInPackage": false,
+    "multiStatementRows": 3,
+    "laterStatementErrorClearsOldTable": true,
+    "privacyLicenseDialogReadable": true
+  },
+  "host": {
+    "core": 23,
+    "realDatabase": 6,
+    "profileSerialization": 3,
+    "nativeCoreNotRerun": true
+  },
+  "savedSettingsInspection": {
+    "verified": false,
+    "reason": "Bound read-only application file inspection returned no matching connections.json; no runtime storage assertion made"
+  },
+  "released": true,
+  "ownDatabaseStopped": true,
+  "ownRouteRemoved": true,
+  "published": false,
+  "createdUtc": "2026-10-15T14:45:23.011192+00:00"
+}

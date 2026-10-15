@@ -1,0 +1,4 @@
+START qt=5.15.12
+CORE|passed=23|total=23
+LIVE|passed=13|total=13
+GUI_READY

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "libQt5Core.so",
+    "bytes": 7249056,
+    "upstreamBlobMatches": true,
+    "upstreamBlob": "9fcb04e7e18dff089d746f25571a7460e292732b"
+  },
+  {
+    "name": "libQt5Gui.so",
+    "bytes": 7539336,
+    "upstreamBlobMatches": true,
+    "upstreamBlob": "9e62d7a08f0f7c7f21e9bb56477db8f5edb36bf6"
+  },
+  {
+    "name": "libQt5Network.so",
+    "bytes": 1948872,
+    "upstreamBlobMatches": true,
+    "upstreamBlob": "acb578f87563ccace393a8822397b9d3e3eb7ce4"
+  },
+  {
+    "name": "libQt5OhExtras.so",
+    "bytes": 465704,
+    "upstreamBlobMatches": true,
+    "upstreamBlob": "33f4bc769fbc63d5be71747b0692fe392d99063c"
+  },
+  {
+    "name": "libQt5Widgets.so",
+    "bytes": 7529128,
+    "upstreamBlobMatches": true,
+    "upstreamBlob": "b8e98fe5915b6034a69fd66f5d1200ba2425c230"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "hapSha256": "3a9fdeeec1ddd357e11bd09f1a543b0f230cae1def43026a4043a345dc9cef67",
+  "signatureVerified": true,
+  "profileVerified": true,
+  "bundle": "com.seriesledger.track1",
+  "targetExecuted": true,
+  "revision": "r2",
+  "native": {
+    "core": 23,
+    "realDatabaseAndWidgetControls": 13,
+    "skipped": 0
+  },
+  "host": {
+    "core": 23,
+    "realDatabase": 6,
+    "windowsWidgetsAccepted": false
+  },
+  "gui": {
+    "actualQueryButtonRows": 3,
+    "laterErrorClearsPriorTable": true,
+    "privateFixtureTab": true
+  },
+  "qtTarget": "5.15.12",
+  "qtHost": "5.15.19",
+  "database": {
+    "officialVersion": "1.13.1",
+    "simulation": false,
+    "transport": "USB HDC reverse route to own loopback instance"
+  },
+  "upstreamHead": "489fcd58006d73d31b687c007a2ffa82869d9547",
+  "sourceScope": "community Qt/HarmonyOS adaptation; not original .NET runtime port",
+  "formalClaim": false,
+  "appsSubmitted": false,
+  "publicBuild": {
+    "sha256": "cf64bed536a7ef0df3135de104ee4b886350386ffdeeed80b371358b4bca1261",
+    "bundle": "org.seriesledger.pc",
+    "targetExecuted": false,
+    "privateValidationIncluded": false,
+    "fullUnsignedBuild": true,
+    "signingIncluded": false
+  }
+}

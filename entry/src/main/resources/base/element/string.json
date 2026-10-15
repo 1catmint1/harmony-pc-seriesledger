@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "InfluxDB Studio Qt module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "InfluxDB management client"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SeriesLedger"
+    }
+  ]
+}

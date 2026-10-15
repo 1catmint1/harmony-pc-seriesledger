@@ -1,0 +1,7 @@
+{
+  "source": "https://dl.influxdata.com/influxdb/releases/v1.13.1/influxdb-1.13.1-windows_amd64.zip",
+  "started": false,
+  "verified": true,
+  "sha256": "399dd9adc27e8ad455c7bb9dd44514f300e58bd719330c839c130db1b5fe23b3",
+  "version": "1.13.1"
+}

@@ -1,0 +1,33 @@
+{
+  "bundle": "com.seriesledger.track1",
+  "version": "1.0.1",
+  "type": "release",
+  "distributionType": "app_gallery",
+  "noDeviceBinding": true,
+  "allowedAcls": [],
+  "signatureVerified": true,
+  "profileVerified": true,
+  "artifacts": {
+    "hap": {
+      "sha256": "1d3c7c8a72e8c82c0128e3028c5eaafd5995b20ff03cbec43b6be745f19f71e7",
+      "bytes": 24206248,
+      "officialSignatureVerified": true,
+      "embeddedProfileVerified": true,
+      "embeddedProfileSha256": "05e85e18c49e0adc0d01c379f26799dbd41d1b4cc384db5b0bbf2ea155ebb885",
+      "certificateMatches": true
+    },
+    "app": {
+      "sha256": "72d16d54900d53e79e64f9cd5c5dca0ac8b1998ea749067009cb6265fe6d0e5e",
+      "bytes": 10177528,
+      "officialSignatureVerified": true,
+      "embeddedProfileVerified": true,
+      "embeddedProfileSha256": "05e85e18c49e0adc0d01c379f26799dbd41d1b4cc384db5b0bbf2ea155ebb885",
+      "certificateMatches": true
+    }
+  },
+  "hapSha256": "1d3c7c8a72e8c82c0128e3028c5eaafd5995b20ff03cbec43b6be745f19f71e7",
+  "targetExecuted": false,
+  "appGallerySubmitted": false,
+  "appGalleryPublished": false,
+  "createdAt": "2026-10-15T14:39:33.494Z"
+}

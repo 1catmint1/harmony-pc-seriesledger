@@ -1,0 +1,4 @@
+cpu,host=pcA value=5.5,note="甲,quoted" 1700000000000000000
+cpu,host=pcB value=7.25,note="second" 1700000001000000000
+mem,host=pcA bytes=4096i,ok=true 1700000000000000000
+encoding text="literal%2B+amp&汉" 1700000000000000000

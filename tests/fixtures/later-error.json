@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "statement_id": 0,
+      "series": [
+        {
+          "name": "databases",
+          "columns": [
+            "name"
+          ],
+          "values": [
+            [
+              "track1_influx_validation"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "statement_id": 1,
+      "error": "database not found: track1_missing_db"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "observedAt": "2026-10-15T15:59:01.206Z",
+  "product": "SeriesLedger",
+  "version": "1.0.1",
+  "reportId": "1317623916023909966",
+  "apiLevel": 22,
+  "deviceModel": "MateBook Pro",
+  "system": "6.1.0.115",
+  "tests": 27,
+  "passed": 26,
+  "failed": 1,
+  "warnings": 0,
+  "crashOccurrences": 4,
+  "trigger": "窗口由最小化切换至最大化",
+  "reportedFrame": "onAcceptWant entry/src/main/ets/abilitystage/MyAbilityStage.ts:19:55",
+  "fullRawLogDownloaded": false,
+  "status": "不通过",
+  "reviewSubmitted": false,
+  "published": false
+}

@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "statement_id": 0,
+      "series": [
+        {
+          "name": "cpu",
+          "tags": {
+            "host": "pcA"
+          },
+          "columns": [
+            "time",
+            "value",
+            "note"
+          ],
+          "values": [
+            [
+              "2023-11-14T22:13:20Z",
+              5.5,
+              "甲,quoted"
+            ]
+          ]
+        },
+        {
+          "name": "cpu",
+          "tags": {
+            "host": "pcB"
+          },
+          "columns": [
+            "time",
+            "value",
+            "note"
+          ],
+          "values": [
+            [
+              "2023-11-14T22:13:21Z",
+              7.25,
+              "second"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "statement_id": 1,
+      "series": [
+        {
+          "name": "mem",
+          "tags": {
+            "host": "pcA"
+          },
+          "columns": [
+            "time",
+            "bytes",
+            "ok"
+          ],
+          "values": [
+            [
+              "2023-11-14T22:13:20Z",
+              4096,
+              true
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

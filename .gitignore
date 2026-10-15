@@ -1,0 +1,13 @@
+/.idea/
+/.hvigor/
+/oh_modules/
+/qtforharmony_sdk/
+**/build/
+**/.cxx/
+/build-candidate/
+*.hap
+*.p12
+*.p7b
+*.cer
+*.so
+private-signing.json

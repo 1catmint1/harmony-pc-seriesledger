@@ -1,0 +1,8 @@
+{
+  "productionSource": "entry/src/main/ets/abilitystage/MyAbilityStage.ets",
+  "passed": 10,
+  "repeatedPrimaryWants": 30,
+  "nativeGetterProvided": false,
+  "scope": "Production AbilityStage host routing controls only",
+  "completed": true
+}
