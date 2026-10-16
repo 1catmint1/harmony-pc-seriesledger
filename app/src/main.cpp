@@ -19,7 +19,8 @@ QScopedPointer<QOhWidgetHelper> harmonyWindowHelper;
 void configureApplication(QApplication &app)
 {
     QCoreApplication::setApplicationName(QStringLiteral("SeriesLedger"));
-    QCoreApplication::setApplicationVersion(QStringLiteral("1.0.1"));
+    QGuiApplication::setApplicationDisplayName(QStringLiteral("SeriesLedger"));
+    QCoreApplication::setApplicationVersion(QStringLiteral("1.0.3"));
     QCoreApplication::setOrganizationName(QStringLiteral("SeriesLedger"));
 
     QFont font;
@@ -68,7 +69,7 @@ void setupWindow(MainWindow *window)
 extern "C" int main(int argc, char *argv[])
 {
     static int fallbackArgc = 1;
-    static char appName[] = "InfluxDBStudio";
+    static char appName[] = "SeriesLedger";
     static char *fallbackArgv[] = {appName, nullptr};
 
     QApplication *app = qobject_cast<QApplication *>(QCoreApplication::instance());

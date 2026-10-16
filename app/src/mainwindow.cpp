@@ -71,7 +71,7 @@ QString quotedLiteral(const QString &value)
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
-    setWindowTitle(tr("SeriesLedger · InfluxDB 1.x 查询"));
+    setWindowTitle(QStringLiteral("SeriesLedger"));
     resize(1440, 900);
     setDockNestingEnabled(true);
 
