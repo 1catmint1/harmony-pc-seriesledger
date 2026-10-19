@@ -1,0 +1,17 @@
+{
+  "scope": "AppGallery listing icon only; app binary unchanged",
+  "version": "1.0.3",
+  "fromOwnVectorSource": true,
+  "background": "#073F4D",
+  "width": 1024,
+  "height": 1024,
+  "channels": 3,
+  "hasAlpha": false,
+  "originalNonopaquePixels": 139979,
+  "originalOpaquePixels": 908597,
+  "changedOriginalOpaquePixels": 0,
+  "outputSha256": "81140cb1e47c1b6b7b3ef59ae49a83bd20dbc55c75b47f6027e1c891d9dceaa4",
+  "oldStoreIconSha256": "14892013b7cff02c7dc142d902ae50b33d3bb61a95f7fdcf422818ac74e1416e",
+  "appSha256Expected": "5dd4959aeb59059935f9a00633afebfa107c50e643584174d6c5b05853d92193",
+  "at": "2026-10-19T11:42:33.794Z"
+}
